@@ -2,7 +2,7 @@ import Buttons from "./components/Buttons";
 import Table from "./components/Table";
 import Banner from "./components/Banner";
 import { useState } from "react";
-import <satData.jsx as satData;
+import satData from "./components/satData";
 
 
 
